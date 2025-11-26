@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jason Rey Quiño\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Smart_Library_Management_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Smart_Library_Management_System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Smart_Library_Management_System.props",
+      "PackagePath": "build\\Smart_Library_Management_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Smart_Library_Management_System.props",
+      "PackagePath": "buildMultiTargeting\\Smart_Library_Management_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Smart_Library_Management_System.props",
+      "PackagePath": "buildTransitive\\Smart_Library_Management_System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
