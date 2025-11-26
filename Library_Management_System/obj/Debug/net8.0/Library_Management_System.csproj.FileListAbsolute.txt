@@ -1,6 +1,0 @@
-C:\Users\Jason Rey Quiño\source\repos\Smart_Library_Management_System_Finals\Library_Management_System\obj\Debug\net8.0\Library_Management_System.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jason Rey Quiño\source\repos\Smart_Library_Management_System_Finals\Library_Management_System\obj\Debug\net8.0\Library_Management_System.AssemblyInfoInputs.cache
-C:\Users\Jason Rey Quiño\source\repos\Smart_Library_Management_System_Finals\Library_Management_System\obj\Debug\net8.0\Library_Management_System.AssemblyInfo.cs
-C:\Users\Jason Rey Quiño\source\repos\Smart_Library_Management_System_Finals\Library_Management_System\obj\Debug\net8.0\Library_Management_System.csproj.CoreCompileInputs.cache
-C:\Users\Jason Rey Quiño\source\repos\Smart_Library_Management_System_Finals\Library_Management_System\obj\Debug\net8.0\Library_Management_System.sourcelink.json
-C:\Users\Jason Rey Quiño\source\repos\Smart_Library_Management_System_Finals\Library_Management_System\obj\Debug\net8.0\Library_Management_System.csproj.AssemblyReference.cache
