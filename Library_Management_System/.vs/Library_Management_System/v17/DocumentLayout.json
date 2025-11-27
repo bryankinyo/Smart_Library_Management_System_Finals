@@ -1,0 +1,756 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Library_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\controllers\\catalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\repositories\\finerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\interfaces\\ifinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\interfaces\\iloanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\interfaces\\icatalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\repositories\\catalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\smart_library_management_system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\catalogdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\catalogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\createcatalogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\borrowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\models\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B1271-AA3B-4AC7-8CDE-6060B0989FE6}|..\\Smart_Library_Management_System\\Smart_Library_Management_System.csproj|c:\\users\\jason rey qui\u00F1o\\source\\repos\\smart_library_management_system_finals\\smart_library_management_system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:52:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Program.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Program.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:46:04.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\wwwroot\\index.html",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\wwwroot\\index.html",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAAwNUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-26T05:13:02.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\CatalogsController.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Controllers\\CatalogsController.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\CatalogsController.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Controllers\\CatalogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:51:46.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:50:25.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Readme.md",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Readme.md",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Readme.md",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-26T04:33:43.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:56:17.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Interfaces\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\IReservationRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Interfaces\\IReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:52:25.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\FineRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Repositories\\FineRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\FineRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Repositories\\FineRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:51:31.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Repositories\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\LoanRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Repositories\\LoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:51:40.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Repositories\\ILoanRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\ILoanRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Repositories\\ILoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:00:37.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\IFineRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Interfaces\\IFineRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\IFineRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Interfaces\\IFineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:50:54.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:39:19.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:16:59.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Loan.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Models\\Loan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:36:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Services\\LoanService.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Services\\LoanService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:46:55.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:48:42.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILoanServices.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\ILoanServices.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Interfaces\\ILoanServices.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\ILoanServices.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Interfaces\\ILoanServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:43:26.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Controllers\\LoansController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:40:11.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\ReservationDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\ReservationDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\ReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:51:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CatalogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\CatalogRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Repositories\\CatalogRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\CatalogRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Repositories\\CatalogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:50:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:54:48.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICatalogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\ICatalogRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Interfaces\\ICatalogRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\ICatalogRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Interfaces\\ICatalogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:50:58.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\appsettings.json",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T05:32:56.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Smart_Library_Management_System.http",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Smart_Library_Management_System.http",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Smart_Library_Management_System.http",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Smart_Library_Management_System.http",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Smart_Library_Management_System.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-26T05:33:04.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T05:37:40.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\AddBookDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\AddBookDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\AddBookDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\AddBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:45:13.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Book.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:36:39.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CreateReservationDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\CreateReservationDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CreateReservationDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\CreateReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:51:25.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:54:12.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CreateUserDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:55:42.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\UpdateUserDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\UpdateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:55:58.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:36:55.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CreateBookDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\CreateBookDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CreateBookDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\CreateBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:34:24.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:44:12.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CatalogDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CatalogDetailsDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\CatalogDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CatalogDetailsDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\CatalogDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:44:19.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CatalogDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CatalogDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\CatalogDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CatalogDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\CatalogDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:43:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateCatalogDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CreateCatalogDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\CreateCatalogDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\CreateCatalogDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\CreateCatalogDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:41:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\LoanDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\LoanDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\LoanDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\LoanDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:35:34.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BorrowRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\BorrowRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\BorrowRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\BorrowRequestDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\BorrowRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:35:12.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:34:49.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:32:50.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Models\\Catalog.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Catalog.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Models\\Catalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:31:40.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:40:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Fine.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Fine.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Models\\Fine.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Fine.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Models\\Fine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:37:53.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Reservation.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:38:20.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Faculty.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:36:11.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\Student.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:35:36.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Smart_Library_Management_System\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Jason Rey Qui\u00F1o\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\Models\\User.cs",
+              "RelativeToolTip": "..\\Smart_Library_Management_System\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:34:25.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
