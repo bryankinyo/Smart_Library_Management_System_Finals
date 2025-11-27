@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "KXuWFc6h9GBmVBhDMHW7YxQLfHqUM4GeaJOHdsOoo1A=",
+  "Source": "Smart_Library_Management_System",
+  "BasePath": "_content/Smart_Library_Management_System",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Smart_Library_Management_System\\wwwroot",
+      "Source": "Smart_Library_Management_System",
+      "ContentRoot": "C:\\Users\\Jason Rey Quiño\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\wwwroot\\",
+      "BasePath": "_content/Smart_Library_Management_System",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jason Rey Quiño\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\wwwroot\\index.html",
+      "SourceId": "Smart_Library_Management_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Rey Quiño\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\wwwroot\\",
+      "BasePath": "_content/Smart_Library_Management_System",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4xacokuizz",
+      "Integrity": "uPWXzu+wDZuAFbz8qL0ug3NdiqOrKcmVbzZEmZVmJyU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.4xacokuizz.html",
+      "AssetFile": "C:\\Users\\Jason Rey Quiño\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uPWXzu+wDZuAFbz8qL0ug3NdiqOrKcmVbzZEmZVmJyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Nov 2025 06:41:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4xacokuizz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uPWXzu+wDZuAFbz8qL0ug3NdiqOrKcmVbzZEmZVmJyU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Jason Rey Quiño\\source\\repos\\Smart_Library_Management_System_Finals\\Smart_Library_Management_System\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uPWXzu+wDZuAFbz8qL0ug3NdiqOrKcmVbzZEmZVmJyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Nov 2025 06:41:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uPWXzu+wDZuAFbz8qL0ug3NdiqOrKcmVbzZEmZVmJyU="
+        }
+      ]
+    }
+  ]
+}
